@@ -1,0 +1,9 @@
+﻿69b39c89-2d21-4fb7-b644-d03475fb1480.0\info-->und\69b39c89-2d21-4fb7-b644-d03475fb1480.0\info
+69b39c89-2d21-4fb7-b644-d03475fb1480.0\text-->ObjectModule.bsl
+89eb702f-bc72-4593-99cf-977a3907d5a2-->und\89eb702f-bc72-4593-99cf-977a3907d5a2
+89eb702f-bc72-4593-99cf-977a3907d5a2.0-->Form\Форма
+93654bad-a4cb-43a3-8da5-8b22b3725931-->und\93654bad-a4cb-43a3-8da5-8b22b3725931
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions

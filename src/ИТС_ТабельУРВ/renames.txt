@@ -1,0 +1,9 @@
+﻿4594848a-2086-462e-9bbc-cac947d9a240-->und\4594848a-2086-462e-9bbc-cac947d9a240
+4594848a-2086-462e-9bbc-cac947d9a240.0-->Form\ФормаОтчета
+535ff873-45b7-4cf9-a5dd-16f5fd427b5a-->und\535ff873-45b7-4cf9-a5dd-16f5fd427b5a
+6ee7e761-776a-4cba-aa94-57aff7f2c6bc-->und\6ee7e761-776a-4cba-aa94-57aff7f2c6bc
+6ee7e761-776a-4cba-aa94-57aff7f2c6bc.0-->und\6ee7e761-776a-4cba-aa94-57aff7f2c6bc.0
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
